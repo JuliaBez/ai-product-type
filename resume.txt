@@ -1,0 +1,81 @@
+Name: Julia Bez Batti Viana
+Age: 23
+Phone: +55 47 99635-9217
+Email: julia_bezbatti@hotmail.com
+LinkedIn: linkedin.com/in/Juliabezbattiviana
+
+[Education]
+Instituto Federal Catarinense – Campus Araquari
+
+Bachelor's Degree in Information Systems (Incomplete)
+Period: January 2019 – December 2023 | Araquari, SC
+
+Agricultural Technician
+Period: January 2016 – December 2018 | Araquari, SC
+
+[Additional Courses]
+
+RocketSeat: ReactJS, TypeScript, Styled-Components, NextJS
+
+[Languages]
+
+English: Advanced
+
+Brazilian Portuguese: Native
+
+Japanese: Basic (Student)
+
+[Professional Experience]
+
+Full Stack Developer – Ayvo AI
+Period: 2023 – Present
+
+Lead Developer.
+
+Developing and maintaining full stack solutions using React, Next.js, and Python.
+
+Integrating AI solutions with Langchain, GPT technologies, and advanced data processing techniques.
+
+Collaborating with design teams to enhance UI/UX consistency.
+
+Backend Developer – NETCRED Payment Services and Administrative Support LTDA
+Period: 2021 – 2023
+
+Developed backend services using Python, Django, and PostgreSQL.
+
+Implemented QA and TDD for a more stable environment.
+
+Managed API integrations and optimized data flow between front-end and back-end.
+
+Contributed to projects involving fintech services and payment solutions.
+
+[Technical Skills]
+
+Programming Languages & Frameworks: Python, ReactJS, Next.js, JavaScript, TypeScript, PHP, CSS
+
+Databases: PostgreSQL, PgAdmin, SQL
+
+Technologies: Django, APIs, Langchain, GPT
+
+Design: UX/UI
+
+Data Science Tools: Data analysis and integration
+
+[Soft Skills]
+
+Teamwork and collaboration
+
+Strong communication and interpersonal skills
+
+Respect for cultural differences and corporate hierarchies
+
+Self-motivated and diligent
+
+[Additional Interests]
+
+Professional Chess Player
+
+Cosplayer
+
+Chess Illustrator and Artist
+

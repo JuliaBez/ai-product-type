@@ -1,0 +1,5 @@
+Django==4.2.7
+djangorestframework==3.14.0
+g4f==0.4.3.5
+reportlab==3.4.0
+reportlab==3.5.34
